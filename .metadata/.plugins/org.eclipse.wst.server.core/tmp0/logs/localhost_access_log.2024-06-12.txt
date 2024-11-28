@@ -1,0 +1,8 @@
+127.0.0.1 - - [12/Jun/2024:12:51:00 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:12:51:02 +0530] "GET /todo-application-jsp-servlet-jdbc-msql/WEB-INF/classes/net/javaguides/todoapp/model/User.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:12:51:02 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:12:51:47 +0530] "GET /todo-application-jsp-servlet-jdbc-msql/ HTTP/1.1" 200 1932
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:12:52:10 +0530] "POST /todo-application-jsp-servlet-jdbc-msql/login HTTP/1.1" 200 1979
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:12:52:17 +0530] "GET /todo-application-jsp-servlet-jdbc-msql/new HTTP/1.1" 200 2522
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:12:52:29 +0530] "POST /todo-application-jsp-servlet-jdbc-msql/insert HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:12:52:29 +0530] "GET /todo-application-jsp-servlet-jdbc-msql/list HTTP/1.1" 200 3741
